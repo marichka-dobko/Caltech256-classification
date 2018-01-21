@@ -1,8 +1,8 @@
 # Caltech256-classification
 
 ## Examples of images from dataset
-<img src="image_examples/dice.jpg" width="110px" height="150px"/> <img src="images_examples/waterfall.jpg" width="110px" height="150px"/> 
-<img src="images_examples/windmill.jpg" width="110px" height="150px"/><img src="images_examples/unicorn.jpg" width="110px" height="150px"/> <img src="images_examples/gorilla.jpg" width="110px" height="150px"/><img src="images_examples/backpack.jpg" width="110px" height="150px"/> 
+<img src="image_examples/dice.jpg" width="110px" height="150px"/> <img src="image_examples/waterfall.jpg" width="110px" height="150px"/> 
+<img src="image_examples/windmill.jpg" width="110px" height="150px"/><img src="image_examples/unicorn.jpg" width="110px" height="150px"/> <img src="image_examples/gorilla.jpg" width="110px" height="150px"/><img src="image_examples/backpack.jpg" width="110px" height="150px"/> 
 
 
 
